@@ -1,0 +1,25 @@
+header{
+	margin: 0;
+	padding: 0;
+}
+.header-title{
+	margin: 0;
+	padding: 0;
+	background-color: #B94A00;
+}
+.header-title h2{
+	padding-left: 10px;
+	text-transform: uppercase;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 30px;
+	font-weight: bold;
+    color: #fff;
+    font-family: Yantramanav,Arial,sans-serif;
+    letter-spacing: .08125rem;
+}
+.input input[type="file"]{
+	padding: 10px;
+    border: solid 1px #dcdcdc;
+    transition: box-shadow 0.3s, border 0.3s;
+}
